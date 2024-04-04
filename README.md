@@ -5,7 +5,7 @@ Want to make the class even more exciting? Come and draw the card!
 ![image](https://github.com/MC-BA-Bee/GenshinStudentNumbers/assets/130174773/4fd653ea-36ca-4bad-81c9-efb74a091064)
 
 After v4.5:
-We use .exe to run our program. So you can run it on Windows everywhere!
+We use .exe to run our program. So, after v4.5 you can run it on Windows everywhere!
 
 Before v4.4.2:
 Please check if your computer has installed Python and Pygame and Pgzero libraries.If not, the program will not run on your computer.
