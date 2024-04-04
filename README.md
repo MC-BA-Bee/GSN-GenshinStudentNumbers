@@ -1,4 +1,4 @@
-Want to make the class even more exciting? Come and draw the card!
+Want to make the class even more exciting? Come and try to draw the card!
 
 After v4.5:
 We use .exe to run our program. So, you can run it directly on Windows®computer everywhere! (Even without Python)
