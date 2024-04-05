@@ -1,4 +1,4 @@
-![Github stars](https://img.shields.io/github/stars/MC-BA-bee/GSN-GenshinStudentNumbers.svg)
+![Github stars](https://img.shields.io/badge/Language-Python)
 # GSN-GenshinStudentNumbers
 Want to make the class even more exciting? Come and try to draw the card!
 
