@@ -24,13 +24,15 @@ GSN-GenshinStudentNumbers
 	- [V4.5+](#after-v45)
 	- [v4.42-](#before-v442)
 - [Configuration](#configuration)
-- [Installation](#Installation)
-- [Configuration](#configuration)
-- [Configuration](#configuration)
-- [Configuration](#configuration)
-- [Configuration](#configuration)
-- [Configuration](#configuration)
-- [Configuration](#configuration)
+- [Usage](#Usage)
+- [Development](#Development)
+- [Changelog](#Changelog)
+- [FAQ](#FAQ)
+- [Support](#Support)
+- [Dos](#Dos)
+- [Contact](#Contact)
+- [Authors and acknowledgment](#Authors and acknowledgment)
+- [License](#License)
 ## Introduction
 Want to make the class even more exciting? Come and try to draw the card!  
 We use about 6 month to creative it, now it is coming !  
