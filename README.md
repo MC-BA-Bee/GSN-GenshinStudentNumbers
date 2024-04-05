@@ -78,95 +78,57 @@ import pygame,pgzrun,random,time,os
 
 ## Changelog
 
-- =2024/04/04 20:20 Update Content=
+=2024/04/05 20:00 Update Content=
+In this update, we have added an account system to the "Student ID Prayer" program,
+Travelers can click on the "X" in the upper right corner of the main prayer interface to switch accounts.
+(At present, we have not added a password function. Please ignore the password box on the input interface.)
 
+=2024/04/04 20:20 Update Content=
 After the unremitting efforts of our "Student ID Prayer" project team, Prayer has finally supported the operation of exe!
-
 This will mean that in the future, travelers can ignore various environmental installation requirements,
-
 Copy the prayer directly to the mobile storage device on different Windows ® I'm using Wish on the device!
-
 After this update, all subsequent updates will release the exe version, which can be downloaded on Github!
-
 Project address: https://github.com/MC-BA-Bee/GenshinStudentNumbers
 
-
-
-- =2024/04/04 18:45 Update Content=
-
+=2024/04/04 18:45 Update Content=
 Optimizing storage formats is a prayer for less memory usage
 
-
-
-- =2024/01/21 04:00 Update Content=
-
+=2024/01/21 04:00 Update Content=
 Fixed a problem where the prayer animation froze during playback
-
-
-
 Compensation content
-
 Raw stone * 3000
-
-
-
 Compensation scope
-
 Travelers who have reached level 5 or above in adventure before 4:00 pm on January 21, 2024.
+Travelers are requested to go online and receive emails before 21:50 on 2124/01/21.  
+The production team will distribute corresponding supplements to travelers in the form of game emails within 24 hours after the problem is fixed  
+Compensation. The validity period of the email is 3000000 days. Please collect the email promptly.  
 
-Travelers are requested to go online and receive emails before 21:50 on 2124/01/21.
+=2024/01/21 02:00 Update Content=
+Optimized the prayer animation to make the playback more beautiful.  
 
-The production team will distribute corresponding supplements to travelers in the form of game emails within 24 hours after the problem is fixed
+=2024/01/21 00:20 Update Content=
+1. Fixed the issue of clicking to switch the history of the wish card pool flashing under specific circumstances (such as clicking on character limited wish cards)  
+After switching the resident card pool history after the pool button, it will flash back.  
+2. Fixed the occurrence of garbled characters in the display of prayer history information.  
+   
+=2024/01/20 23:30 Update Content=
+Pray for the addition of a new historical record up character highlighting, allowing travelers to more intuitively see the drawn five-star horns  
+Color, and can quickly switch to view the history of multiple card pools.  
 
-Compensation. The validity period of the email is 3000000 days. Please collect the email promptly.
+=2024/01/20 22:00 Update Content=
+Pray for the addition of a historical date function, where you can see the time when the character was drawn in the history record  
 
-
-
-- =2024/01/21 02:00 Update Content=
-
-Optimized the prayer animation to make the playback more beautiful.
-
-
-
-- =2024/01/21 00:20 Update Content=
-
-1. Fixed the issue of clicking to switch the history of the wish card pool flashing under specific circumstances (such as clicking on character limited wish cards)
-
-After switching the resident card pool history after the pool button, it will flash back.
-
-2. Fixed the occurrence of garbled characters in the display of prayer history information.
-
-
-
-- =2024/01/20 23:30 Update Content=
-
-Pray for the addition of a new historical record up character highlighting, allowing travelers to more intuitively see the drawn five-star horns
-
-Color, and can quickly switch to view the history of multiple card pools.
-
-
-
-- =2024/01/20 22:00 Update Content=
-
-Pray for the addition of a historical date function, where you can see the time when the character was drawn in the history record
-
-
-
-- =2024/01/20 18:00 Update Content=
-
+=2024/01/20 18:00 Update Content=
 1. Fixed the issue where clicking the prayer button did not respond in specific situations (similar to when clicking multiple function buttons)
-
-Abnormal opening of different interfaces.
-
+Abnormal opening of different interfaces.  
 2. Fixed a situation where exiting the program while playing a prayer animation would not reduce entanglement or encounter.
+   
+=2024/01/20 14:00 Update Content=
+Pray for the addition of a history recording function, allowing travelers to view the characters they have drawn before  
 
+*This work is purely fictional and has no connection to any real characters, events, groups, or organizations.  
 
-
-- =2024/01/20 14:00 Update Content=
-
-Pray for the addition of a history recording function, allowing travelers to view the characters they have drawn before
-
-![nr](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/a7b89589-6b20-4522-a6b6-7d73dd4f59c9)
+![nr1](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/00e8611f-bb43-455c-a737-b5c44aca5abe)
 
 ## FAQ
 How to updated it?  
