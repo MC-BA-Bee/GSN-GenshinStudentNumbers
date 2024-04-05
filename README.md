@@ -1,3 +1,5 @@
+![Github stars](https://img.shields.io/github/stars/MC-BA-bee/GSN-GenshinStudentNumbers.svg)
+# GSN-GenshinStudentNumbers
 Want to make the class even more exciting? Come and try to draw the card!
 
 # Contents
