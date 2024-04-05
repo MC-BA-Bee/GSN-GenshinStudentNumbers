@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c19ef2cf-de4a-45cb-9ab6-bfe44d40ffeb" />
 </p>
