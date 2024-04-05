@@ -20,9 +20,9 @@ GSN-GenshinStudentNumbers
 # Contents
 
 - [Introduction](#introduction)
-- [Installation](#requirements)
-	- [V4.5+](#aaa)
-	- [v4.42-](#bbb)
+- [Requirements](#requirements)
+	- [V4.5+](#afterv4.5)
+	- [v4.42-](#v4.4.2)
  - 
 ## Introduction
 Want to make the class even more exciting? Come and try to draw the card!  
