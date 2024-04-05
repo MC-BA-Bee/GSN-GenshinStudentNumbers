@@ -59,33 +59,39 @@ If not, the program will not run on your computer.
 Windows® 10 and above | 64 bit.
 
 ## Installation
-After v4.5, you don't need to do more things for your computer, you just need to download and unzipped it!
-Before 
+After v4.5, you don't need to do more things for your computer, you just need to download and unzipped it!  
+Before v4.42 you need installed [Python](python.org) and Pygame and Pgzero libraries.
+
 ## Usage
 Just need to run it and select the 1 draw or 10 draw button.
-If
+You can check the history at the Main Interface.
 
 ## Development
-- 开发（关于怎样开发的文档信息。（API 等。））
+import pygame,pgzrun,random,time,os
 
 ## Changelog
 - 更新日志（一个简短的历史记录（更改，替换或者其他）。）
 
 ## FAQ
-- 常见问题（常见问题。）
+How to updated it?  
+You can updated the program at [here](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/releases)
 
 ## Support
-- 支持
+Support us at [https://space.bilibili.com/1426827245](https://space.bilibili.com/1426827245)
 
 ### Dos
-- 文档（更多文档。）
+****Please do not use this open source project for commercial purposes!****
 
 ### Contact
-- 联系（其他联系信息（电子邮件地址，网站，公司名称，地址等）。提交bug，功能要求，提交补丁，加入邮件列表，得到通知，或加入用户或开发开发区群的介绍。）
+email:  
+- In China: mc571526@163.com  
+- Others: lizixuan815@gmail.com
+
+You can find me on [bilibili](https://space.bilibili.com/1426827245).
 
 ## Authors and acknowledgment
 MC-BA---bee 
 
 ## License 
-Code Copyright © 2023-2024 MC-BA---bee All rights reserved.
-Image Copyright © 2020 mihoyo All rights reserved.
+Code Copyright © 2023-2024 MC-BA---bee All rights reserved.  
+Image Copyright © 2020 mihoyo All rights reserved.  
