@@ -7,6 +7,7 @@ Want to make the class even more exciting? Come and try to draw the card!
 	- [v4.42-](#bbb)
 # Introduction
 Want to make the class even more exciting? Come and try to draw the card!
+We use about 6 month to creative it, now it is coming ! 
 # Installation
 ## After v4.5:
 We use .exe to run our program. So, you can run it directly on Windows®computer everywhere! (Even without Python)
