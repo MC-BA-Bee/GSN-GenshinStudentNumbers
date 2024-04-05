@@ -17,5 +17,5 @@ We use about 6 month to creative it, now it is coming !
 ## After v4.5:
 We use .exe to run our program. So, you can run it directly on Windows®computer everywhere! (Even without Python)
 ## Before v4.4.2:
-We only have Python version. Please check if your computer has installed Python and Pygame and Pgzero libraries.If not, the program will not run on your computer.
+We only have Python version. **Please check if your computer has installed Python and Pygame and Pgzero libraries.** If not, the program will not run on your computer.
 Press Win+R, open Run, enter 'pip install pygame' & 'pip install pgzero' to install pygame & pgzero on Python.
