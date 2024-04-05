@@ -1,4 +1,4 @@
-![Github stars](https://img.shields.io/badge/Language-Python)
+![Github stars](https://img.shields.io/badge/language-Python)
 # GSN-GenshinStudentNumbers
 Want to make the class even more exciting? Come and try to draw the card!
 
