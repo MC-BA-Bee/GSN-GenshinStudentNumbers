@@ -86,6 +86,6 @@ If
 ## Authors and acknowledgment
 MC-BA---bee 
 
-## License - 版权信息（版权和许可信息（或阅读许可证）、法律声明。）
+## License 
 Code Copyright © 2023-2024 MC-BA---bee All rights reserved.
 Image Copyright © 2020 mihoyo All rights reserved.
