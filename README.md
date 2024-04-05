@@ -1,6 +1,7 @@
 ![icon](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c19ef2cf-de4a-45cb-9ab6-bfe44d40ffeb)
 
 # GSN-GenshinStudentNumbers
+================================
 ![](https://img.shields.io/badge/Language-Python-blue) 
 ![Github stars](https://img.shields.io/github/stars/MC-BA-bee/GSN-GenshinStudentNumbers.svg) 
 ![Github forks](https://img.shields.io/github/forks/MC-BA-bee/GSN-GenshinStudentNumbers.svg) 
