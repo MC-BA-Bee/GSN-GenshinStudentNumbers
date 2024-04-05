@@ -9,7 +9,7 @@
 GSN-GenshinStudentNumbers
 </h1>
 
-> An program to Get StudentNumbers
+> <p align="center"> An program to Get StudentNumbers </p>
 
 ![](https://img.shields.io/badge/Language-Python-blue) 
 ![Github stars](https://img.shields.io/github/stars/MC-BA-bee/GSN-GenshinStudentNumbers.svg) 
