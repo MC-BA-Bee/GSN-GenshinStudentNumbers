@@ -23,7 +23,7 @@ We only have Python version. ***Please check if your computer has installed Pyth
 Press Win+R, open Run, enter 'pip install pygame' & 'pip install pgzero' to install pygame & pgzero on Python.
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c19ef2cf-de4a-45cb-9ab6-bfe44d40ffeb)" />
+  <img src="[https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c19ef2cf-de4a-45cb-9ab6-bfe44d40ffeb]" />
 </p>
 
 # GSN-GenshinStudentNumbers
