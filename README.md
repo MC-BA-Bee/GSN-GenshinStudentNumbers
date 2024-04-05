@@ -12,7 +12,7 @@
 ![Github forks](https://img.shields.io/github/forks/MC-BA-bee/GSN-GenshinStudentNumbers.svg) 
 # Contents
 - [Introduction](#introduction)
-- [Installation](#heading-two)
+- [Installation](#requirements)
 	- [V4.5+](#aaa)
 	- [v4.42-](#bbb)
 ## Introduction
