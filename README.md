@@ -16,22 +16,26 @@
 	- [V4.5+](#aaa)
 	- [v4.42-](#bbb)
 ## Introduction
-Want to make the class even more exciting? Come and try to draw the card!
-We use about 6 month to creative it, now it is coming ! 
+Want to make the class even more exciting? Come and try to draw the card!  
+We use about 6 month to creative it, now it is coming !  
 
 ### Summary
 You can use the program to draw the StudentNumber.
 
 ### Features
-Before v4.4.2 we only have py version.
-After v4.5 we have 2 version (py & exe version).
+Before v4.4.2 we only have py version.  
+After v4.5 we have 2 version (py & exe version).  
 
 ## Requirements
 ### After v4.5:
-We use .exe to run our program. So, you can run it directly on Windows®computer everywhere! (Even without Python)
+We use .exe to run our program.   
+So, you can run it directly on Windows®computer everywhere! (Even without Python)
+
 ### Before v4.4.2:
-We only have Python version. ***Please check if your computer has installed Python and Pygame and Pgzero libraries.*** If not, the program will not run on your computer.
-Press Win+R, open Run, enter 'pip install pygame' & 'pip install pgzero' to install pygame & pgzero on Python.
+We only have Python version.  
+***Please check if your computer has installed Python and Pygame and Pgzero libraries.***   
+If not, the program will not run on your computer.  
+**Press Win+R, open Run, enter 'pip install pygame' & 'pip install pgzero' to install pygame & pgzero on Python.**
 
 ## Configuration
 Windows® 10 and above | 64 bit.
@@ -39,7 +43,9 @@ Windows® 10 and above | 64 bit.
 ## Installation
 After v4.5, you don't need to do more things for your computer, you just need to download and unzipped it!
 Before 
-## Usage - 用法（用法。）
+## Usage
+Just need to run it and select the 1 draw or 10 draw button.
+If
 
 ## Development - 开发（关于怎样开发的文档信息。（API 等。））
 
