@@ -39,14 +39,18 @@ We use about 6 month to creative it, now it is coming !
 
 ## Summary
 You can use the program to get the StudentNumber.
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/05d2c9bf-4578-48ff-bcaf-e4b4d04c56cd)
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c6a29dce-1747-49f7-98c4-d76a816b63f1)
 
 ## Features
 Before v4.4.2 we only have py version.  
 After v4.5 we have 2 version (py & exe version).  
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/b1b3cb48-4f16-4442-af06-0bc1e15d150c)
 
 ## Requirements
 ### After v4.5:
 We use .exe to run our program.   
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/857189db-2ee0-40de-bfe0-bddb1cbf4976)
 So, you can run it directly on Windows®computer everywhere! (Even without Python)
 
 ### Before v4.4.2:
@@ -54,6 +58,8 @@ We only have Python version.
 ***Please check if your computer has installed Python and Pygame and Pgzero libraries.***   
 If not, the program will not run on your computer.  
 **Press Win+R, open Run, enter 'pip install pygame' & 'pip install pgzero' to install pygame & pgzero on Python.**
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/6357142a-41a5-4c13-b8c0-6aa8eb9a03ef)
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/d8b9e4f3-adb7-4c2c-948a-12123c6d31f0)
 
 ## Configuration
 Windows® 10 and above | 64 bit.
