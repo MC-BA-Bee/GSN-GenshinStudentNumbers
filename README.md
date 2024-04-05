@@ -11,7 +11,7 @@
 ![Github stars](https://img.shields.io/github/stars/MC-BA-bee/GSN-GenshinStudentNumbers.svg) 
 ![Github forks](https://img.shields.io/github/forks/MC-BA-bee/GSN-GenshinStudentNumbers.svg) 
 # Contents
-- [Introduction](#heading-one)
+- [Introduction](#introduction)
 - [Installation](#heading-two)
 	- [V4.5+](#aaa)
 	- [v4.42-](#bbb)
@@ -20,7 +20,7 @@ Want to make the class even more exciting? Come and try to draw the card!
 We use about 6 month to creative it, now it is coming !  
 
 ### Summary
-You can use the program to draw the StudentNumber.
+You can use the program to get the StudentNumber.
 
 ### Features
 Before v4.4.2 we only have py version.  
