@@ -37,10 +37,10 @@ GSN-GenshinStudentNumbers
 Want to make the class even more exciting? Come and try to draw the card!  
 We use about 6 month to creative it, now it is coming !  
 
-### Summary
+## Summary
 You can use the program to get the StudentNumber.
 
-### Features
+## Features
 Before v4.4.2 we only have py version.  
 After v4.5 we have 2 version (py & exe version).  
 
