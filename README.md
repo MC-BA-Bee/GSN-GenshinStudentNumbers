@@ -4,7 +4,11 @@
   <img src="https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c19ef2cf-de4a-45cb-9ab6-bfe44d40ffeb" />
 </p>
 
-# GSN-GenshinStudentNumbers
+
+<h1 align="center">
+GSN-GenshinStudentNumbers
+</h1>
+
 > An program to Get StudentNumbers
 
 ![](https://img.shields.io/badge/Language-Python-blue) 
