@@ -39,6 +39,7 @@ We use about 6 month to creative it, now it is coming !
 
 ## Summary
 You can use the program to get the StudentNumber.
+
 ![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/05d2c9bf-4578-48ff-bcaf-e4b4d04c56cd)
 ![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c6a29dce-1747-49f7-98c4-d76a816b63f1)
 
@@ -50,7 +51,7 @@ After v4.5 we have 2 version (py & exe version).
 ## Requirements
 ### After v4.5:
 We use .exe to run our program.   
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/857189db-2ee0-40de-bfe0-bddb1cbf4976)
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/857189db-2ee0-40de-bfe0-bddb1cbf4976)  
 So, you can run it directly on Windows®computer everywhere! (Even without Python)
 
 ### Before v4.4.2:
@@ -182,10 +183,12 @@ email:
 - In China: mc571526@163.com  
 - Others: lizixuan815@gmail.com
 
-You can find me on [bilibili](https://space.bilibili.com/1426827245).
+You can find me on [bilibili](https://space.bilibili.com/1426827245).  
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/d99fc594-cc35-4acd-986e-46d6d2a5de12)
 
 ## Authors and acknowledgment
-MC-BA---bee 
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/90c6e7e5-0b8d-4df3-b940-2cce1e66b741)
+@MC-BA---bee 
 
 ## License 
 Code Copyright © 2023-2024 MC-BA---bee All rights reserved.  
