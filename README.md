@@ -1,6 +1,6 @@
 
 # GSN-GenshinStudentNumbers
-![](https://img.shields.io/badge/Language-Python-blue)  ![Github stars](https://img.shields.io/github/stars/MC-BA-bee/GSN-GenshinStudentNumbers.svg) ![Github forks](https://img.shields.io/github/forks/MC-BA-bee/GSN-GenshinStudentNumbers.svg) ![](https://img.shields.io/badge/-license-Python-yellow)
+![](https://img.shields.io/badge/Language-Python-blue)  ![Github stars](https://img.shields.io/github/stars/MC-BA-bee/GSN-GenshinStudentNumbers.svg) ![Github forks](https://img.shields.io/github/forks/MC-BA-bee/GSN-GenshinStudentNumbers.svg) ![](https://img.shields.io/badge/license-Python-yellow)
 Want to make the class even more exciting? Come and try to draw the card!
 
 # Contents
