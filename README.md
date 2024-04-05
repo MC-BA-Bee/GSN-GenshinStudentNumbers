@@ -1,7 +1,7 @@
 
 # GSN-GenshinStudentNumbers
 ![Github stars](https://img.shields.io/badge/Language-Python-blue)![Github stars](https://img.shields.io/badge/Language-Python-blue)
-\n Want to make the class even more exciting? Come and try to draw the card!
+Want to make the class even more exciting? Come and try to draw the card!
 
 # Contents
 - [Introduction](#heading-one)
