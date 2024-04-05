@@ -22,7 +22,9 @@ We use .exe to run our program. So, you can run it directly on Windows®computer
 We only have Python version. ***Please check if your computer has installed Python and Pygame and Pgzero libraries.*** If not, the program will not run on your computer.
 Press Win+R, open Run, enter 'pip install pygame' & 'pip install pgzero' to install pygame & pgzero on Python.
 
-![icon](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c19ef2cf-de4a-45cb-9ab6-bfe44d40ffeb)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c19ef2cf-de4a-45cb-9ab6-bfe44d40ffeb)" />
+</p>
 
 # GSN-GenshinStudentNumbers
 > An program to Get StudentNumbers
