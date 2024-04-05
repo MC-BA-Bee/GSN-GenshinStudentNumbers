@@ -11,14 +11,19 @@ GSN-GenshinStudentNumbers
 
 > <p align="center"> An program to Get StudentNumbers </p>
 
-![](https://img.shields.io/badge/Language-Python-blue) 
-![Github stars](https://img.shields.io/github/stars/MC-BA-bee/GSN-GenshinStudentNumbers.svg) 
-![Github forks](https://img.shields.io/github/forks/MC-BA-bee/GSN-GenshinStudentNumbers.svg) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue" />
+  <img src="https://img.shields.io/github/stars/MC-BA-bee/GSN-GenshinStudentNumbers.svg" />
+  <img src="https://img.shields.io/github/forks/MC-BA-bee/GSN-GenshinStudentNumbers.svg" />
+</p>
+
 # Contents
+
 - [Introduction](#introduction)
 - [Installation](#requirements)
 	- [V4.5+](#aaa)
 	- [v4.42-](#bbb)
+ - 
 ## Introduction
 Want to make the class even more exciting? Come and try to draw the card!  
 We use about 6 month to creative it, now it is coming !  
