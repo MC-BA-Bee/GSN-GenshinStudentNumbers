@@ -31,7 +31,7 @@ GSN-GenshinStudentNumbers
 - [Support](#Support)
 - [Dos](#Dos)
 - [Contact](#Contact)
-- [Authors and acknowledgment](#Authors and acknowledgment)
+- [Authors and acknowledgment](#authors-and-acknowledgment)
 - [License](#License)
 ## Introduction
 Want to make the class even more exciting? Come and try to draw the card!  
