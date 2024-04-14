@@ -40,8 +40,10 @@ We use about 6 month to creative it, now it is coming !
 ## Summary
 You can use the program to get the StudentNumber.
 
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/55946e86-a51d-45a9-9aa7-e41a30a60104)
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/05d2c9bf-4578-48ff-bcaf-e4b4d04c56cd)
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/9766d395-7ef4-4f55-ad71-64f6ad7cfabf)
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/d218d085-c384-466f-8856-40cd0f0c670f)
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/b8e93e48-7f46-4a12-b5b2-4d77d5624d30)
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/aa746e1f-50f8-42b4-9bf6-c6f9826acc86)
 ![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c6a29dce-1747-49f7-98c4-d76a816b63f1)
 
 ## Features
