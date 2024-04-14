@@ -44,7 +44,8 @@ You can use the program to get the StudentNumber.
 ![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/d218d085-c384-466f-8856-40cd0f0c670f)
 ![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/b8e93e48-7f46-4a12-b5b2-4d77d5624d30)
 ![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/aa746e1f-50f8-42b4-9bf6-c6f9826acc86)
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c6a29dce-1747-49f7-98c4-d76a816b63f1)
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/22a5795a-7d58-43eb-b527-5bd04197372a)
+![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c0a56d3e-dd7d-4d9b-bae2-b089fe4e7976)
 
 ## Features
 Before v4.4.2 we only have py version.  
@@ -134,9 +135,9 @@ Abnormal opening of different interfaces.
 =2024/01/20 14:00 Update Content=
 Pray for the addition of a history recording function, allowing travelers to view the characters they have drawn before  
 
-*This work is purely fictional and has no connection to any real characters, events, groups, or organizations.  
+*This work is purely fictional and has no connection to any real characters, events, groups, or organizations. 
 
-![nr1](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/00e8611f-bb43-455c-a737-b5c44aca5abe)
+![nr1](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/9f3feb23-56af-4b9e-9bbc-3b96799de024)
 
 ## FAQ
 How to updated it?  
