@@ -78,6 +78,11 @@ You can check the history at the Main Interface.
 import pygame,pgzrun,random,time,os
 
 ## Changelog
+=2024/04/13 8:00 Updated content=
+After a week of running, we found that when using the. qyl format to store data, the main program was affected due to Windows virus reporting, in version 4.5.4, we will reuse the. txt file for storage data
+
+=2024/04/05 20:00 Update Content=  
+In this update, we have added an account system to the "Student ID Prayer" program, Travelers can click on the "X" in the upper right corner of the main prayer interface to switch accounts. (At present, we have not added a password function. Please ignore the password box on the input interface.)
 
 =2024/04/05 20:00 Update Content=
 In this update, we have added an account system to the "Student ID Prayer" program,
