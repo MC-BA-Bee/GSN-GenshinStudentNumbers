@@ -55,6 +55,7 @@ After v4.5 we have 2 version (py & exe version).
 ## Requirements
 ### After v4.5:
 We use .exe to run our program.   
+(But perhaps thev.py version will run faster)
 ![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/857189db-2ee0-40de-bfe0-bddb1cbf4976)  
 So, you can run it directly on Windows®computer everywhere! (Even without Python)
 
