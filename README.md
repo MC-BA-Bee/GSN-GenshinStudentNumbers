@@ -164,3 +164,4 @@ You can find me on [bilibili](https://space.bilibili.com/1426827245).
 ## License 
 Code Copyright © 2023-2024 MC-BA---bee All rights reserved.  
 Image Copyright © 2020 mihoyo All rights reserved.  
+We will update every version on Monday or Friday 
