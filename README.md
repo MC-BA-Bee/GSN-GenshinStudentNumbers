@@ -159,9 +159,8 @@ You can find me on [bilibili](https://space.bilibili.com/1426827245).
 ![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/d99fc594-cc35-4acd-986e-46d6d2a5de12)
 
 ## Authors and acknowledgment
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/90c6e7e5-0b8d-4df3-b940-2cce1e66b741)
-@MC-BA---bee 
-
+![image](https://i2.hdslb.com/bfs/face/979d34e0b90e1dbf92d0b64f8fec054a4b3a3446.jpg@240w_240h_1c_1s_!web-avatar-nav.avif)
+@MC-BA---bee
 ## License 
 Code Copyright © 2023-2024 MC-BA---bee All rights reserved.  
 Image Copyright © 2020 mihoyo All rights reserved.  
