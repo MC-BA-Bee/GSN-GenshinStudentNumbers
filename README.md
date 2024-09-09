@@ -39,13 +39,14 @@ We use about 6 month to creative it, now it is coming !
 
 ## Summary
 You can use the program to get the StudentNumber.
-
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/9766d395-7ef4-4f55-ad71-64f6ad7cfabf)
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/d218d085-c384-466f-8856-40cd0f0c670f)
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/b8e93e48-7f46-4a12-b5b2-4d77d5624d30)
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/aa746e1f-50f8-42b4-9bf6-c6f9826acc86)
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/22a5795a-7d58-43eb-b527-5bd04197372a)
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/c0a56d3e-dd7d-4d9b-bae2-b089fe4e7976)
+![image](https://github.com/user-attachments/assets/9d4794b0-d195-4367-83ef-34f5910997e9)
+![image](https://github.com/user-attachments/assets/5ae6c24b-6c3e-4d91-82e3-371e7476c05a)
+![image](https://github.com/user-attachments/assets/bc0db68a-b30a-48c7-b2d2-2e4165b0dae6)
+![image](https://github.com/user-attachments/assets/79c27fb6-706a-4757-8a24-59880c2a2c0d)
+![image](https://github.com/user-attachments/assets/624cb68f-1bc7-48b0-960d-3f193d400463)
+![image](https://github.com/user-attachments/assets/95782f8e-08c2-433e-a365-f6923ebd2c59)
+![image](https://github.com/user-attachments/assets/cb15b3aa-a480-42d3-a27d-e028d27daf52)
+![image](https://github.com/user-attachments/assets/cd251788-e09b-4f5b-b662-a5ad51134c3b)
 
 ## Features
 Before v4.4.2 we only have py version.  
